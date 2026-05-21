@@ -1,0 +1,11 @@
+countries:
+  data-url: https://raw.githubusercontent.com/mledoze/countries/master/countries.json
+
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
+    path: /swagger-ui.html
+    operations-sorter: method
+    tags-sorter: alpha
